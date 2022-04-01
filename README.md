@@ -25,4 +25,4 @@ Usage
 
 `npm start`
 
-Created by Rajesh
+Created
